@@ -1,5 +1,5 @@
 <h1 align="center" color="#7159c1">
-    <img alt="React Redux RocketShoes" src="" />
+    <img alt="React Native RocketShoes" src="https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/logoCor.png" />
     <br>
 </h1>
 
@@ -24,5 +24,8 @@ Este projeto trate-se de um E-commerce fictício desenvolvido durante o BootCamp
 * Json-Server
 * Reactotron
 
-![image]()
+![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/1.png)
+![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/2.png)
+![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/3.png)
+![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/4.png)
 
