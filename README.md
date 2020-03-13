@@ -24,8 +24,8 @@ Este projeto trate-se de um E-commerce fictício desenvolvido durante o BootCamp
 * Json-Server
 * Reactotron
 
-![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/1.png)
-![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/2.png)
-![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/3.png)
-![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/4.png)
+![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/1.png){ width: 100px }
+![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/2.png){ width: 100px }
+![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/3.png){ width: 100px }
+![image](https://github.com/ppfrezende/RocketShoes-App/blob/master/src/assets/images/4.png){ width: 100px }
 
