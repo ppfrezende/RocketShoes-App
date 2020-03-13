@@ -71,7 +71,6 @@ function Main() {
   return (
     <Container>
       <FlatList
-        horizontal
         data={products}
         extraData={amount}
         keyExtractor={item => String(item.id)}

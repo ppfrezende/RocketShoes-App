@@ -3,20 +3,21 @@ import { darken } from 'polished';
 import colors from '../../styles/colors';
 
 export const Container = styled.View`
-  background: ${colors.dark};
+  background: ${darken(0.3, colors.primary)};
 `;
 
 export const Product = styled.View`
   background: #fff;
   padding: 10px;
   margin: 15px;
-  border-radius: 4px;
-  width: 220px;
+  border-radius: 15px;
+  width: 385px;
 `;
 
 export const ProductImage = styled.Image`
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 250px;
+  margin-left: 55px;
 `;
 
 export const ProductTitle = styled.Text`
@@ -34,15 +35,15 @@ export const AddButton = styled.TouchableOpacity`
   background: ${colors.primary};
   flex-direction: row;
   align-items: center;
-  border-radius: 4px;
+  border-radius: 15px;
   margin-top: auto;
 `;
 
 export const ProductAmount = styled.View`
   padding: 12px;
   background: ${darken(0.03, colors.primary)};
-  border-top-left-radius: 4px;
-  border-bottom-left-radius: 4px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 15px;
   flex-direction: row;
   align-items: center;
 `;

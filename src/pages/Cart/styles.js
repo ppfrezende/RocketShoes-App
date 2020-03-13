@@ -5,13 +5,15 @@ import colors from '../../styles/colors';
 export const Container = styled.View`
   padding: 10px;
   background: #fff;
-  border-radius: 4px;
+  border-radius: 15px;
   margin: 15px;
 `;
 
 export const Products = styled.View``;
 
-export const Product = styled.View``;
+export const Product = styled.View`
+  margin-bottom: 20px;
+`;
 
 export const ProductInfo = styled.View`
   flex-direction: row;
@@ -86,7 +88,9 @@ export const TotalAmount = styled.Text`
 export const Order = styled.TouchableOpacity`
   background: ${colors.primary};
   padding: 12px;
-  border-radius: 4px;
+  border-radius: 5px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
 `;
 
 export const OrderText = styled.Text`
